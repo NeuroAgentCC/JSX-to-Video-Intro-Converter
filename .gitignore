@@ -3,3 +3,7 @@
 Input/
 Output/
 convert_backup_good_start.py
+Input/*
+Output/*
+!Input/.gitkeep
+!Output/.gitkeep
