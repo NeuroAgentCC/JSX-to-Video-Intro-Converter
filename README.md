@@ -124,4 +124,4 @@ Any support is appreciated and helps keep the project alive.
 
 You can also follow updates and new tools here:
 
-https://t.me/NeuroAgentCC
+https://t.me/NeuroAgentLab
