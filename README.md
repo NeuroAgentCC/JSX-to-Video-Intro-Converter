@@ -8,7 +8,7 @@ Converts React/JSX logo animations (exported by design tools) into MP4 video fil
 
 Converts JSX components into video — two ways to run: via Claude Code dialog or terminal.
 
-[video]
+https://github.com/user-attachments/assets/dd82e76c-7274-4c5b-88df-67f05122253d
 
 ## Option 1 — via Claude Code (recommended)
 

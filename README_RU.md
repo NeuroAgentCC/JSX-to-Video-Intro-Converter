@@ -8,7 +8,7 @@
 
 Конвертирует JSX компоненты в видео — два способа запуска: через диалог Claude Code или терминал.
 
-[видео]
+https://github.com/user-attachments/assets/dd82e76c-7274-4c5b-88df-67f05122253d
 
 ## Способ 1 — через Claude Code (рекомендуется)
 
